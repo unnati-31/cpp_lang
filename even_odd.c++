@@ -2,7 +2,7 @@
 #include <vector>
 
 int main() {
-  
+  //code for printing sum for even numbers and printing product for even numbers.  
   std::vector<int> num = {2, 4, 3, 6, 1, 9, 8, 0, 8, 5, 7, 3, 3};
 
   int sum = 0;
